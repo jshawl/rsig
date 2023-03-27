@@ -6,3 +6,5 @@ source "https://rubygems.org"
 
 
 gem "rspec", "~> 3.12"
+
+gem "ssh_data", "~> 1.3"
